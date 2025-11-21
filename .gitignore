@@ -1,0 +1,23 @@
+# Ignore Python virtual environment
+venv/
+env/
+.venv/
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtualenv metadata
+*.egg-info/
+*.egg
+
+# Logs
+*.log
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# IDE crap
+.vscode/
+.idea/

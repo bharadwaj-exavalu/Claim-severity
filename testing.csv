@@ -1,0 +1,201 @@
+Initial_Class_of_Claim,Claimant_Injuries,Repairable_Flag,Initial_Attorney_Involvement,Primary_Cause_of_Accident,Rate_Class,Non_Drivable_Flag,Claimant_State,Primary_Accident_Description
+Property Damage,Moderate,Yes,No,Rollover,Preferred,Yes,IL,Highway Accident
+Comprehensive,Minor,Yes,Yes,Side-impact,High Risk,No,NY,Highway Accident
+Comprehensive,Severe,No,Yes,Rollover,Standard,Yes,CA,Parking Lot Incident
+Comprehensive,Minor,No,No,Rear-end Collision,Standard,No,TX,Intersection Collision
+Bodily Injury,Moderate,Yes,No,Side-impact,Standard,No,FL,Intersection Collision
+Property Damage,Severe,No,Yes,Side-impact,High Risk,No,FL,Intersection Collision
+Property Damage,None,Yes,Yes,Rear-end Collision,High Risk,No,TX,Highway Accident
+Property Damage,None,No,No,Side-impact,High Risk,Yes,IL,Highway Accident
+Comprehensive,None,Yes,No,Side-impact,Preferred,No,NY,Intersection Collision
+Comprehensive,Severe,No,No,Head-on,Preferred,No,CA,Highway Accident
+Comprehensive,Minor,Yes,No,Rollover,High Risk,Yes,NY,Intersection Collision
+Comprehensive,Minor,No,No,Head-on,High Risk,No,CA,Intersection Collision
+Bodily Injury,Minor,No,Yes,Rear-end Collision,Standard,No,NY,Highway Accident
+Bodily Injury,Severe,Yes,Yes,Side-impact,High Risk,Yes,TX,Highway Accident
+Property Damage,Minor,No,No,Rollover,Standard,No,CA,Intersection Collision
+Bodily Injury,Moderate,No,No,Side-impact,Standard,No,CA,Parking Lot Incident
+Bodily Injury,Minor,No,No,Rear-end Collision,Standard,No,IL,Intersection Collision
+Comprehensive,Moderate,No,No,Rear-end Collision,High Risk,No,FL,Highway Accident
+Comprehensive,None,Yes,No,Head-on,Standard,No,IL,Parking Lot Incident
+Bodily Injury,Severe,Yes,Yes,Rear-end Collision,High Risk,No,IL,Highway Accident
+Comprehensive,Minor,Yes,No,Rollover,Preferred,Yes,IL,Highway Accident
+Bodily Injury,Severe,Yes,Yes,Head-on,Standard,No,NY,Parking Lot Incident
+Property Damage,None,No,No,Rollover,High Risk,Yes,TX,Intersection Collision
+Property Damage,Severe,Yes,Yes,Side-impact,Standard,Yes,NY,Intersection Collision
+Comprehensive,Moderate,Yes,Yes,Side-impact,Standard,Yes,IL,Intersection Collision
+Comprehensive,Severe,No,Yes,Rollover,Standard,No,CA,Parking Lot Incident
+Comprehensive,Minor,Yes,Yes,Rear-end Collision,Preferred,Yes,TX,Highway Accident
+Comprehensive,Moderate,Yes,Yes,Rollover,High Risk,No,IL,Parking Lot Incident
+Property Damage,Minor,No,Yes,Rollover,Standard,No,IL,Intersection Collision
+Property Damage,Severe,No,No,Rear-end Collision,High Risk,Yes,CA,Intersection Collision
+Property Damage,Severe,Yes,No,Head-on,Standard,Yes,IL,Intersection Collision
+Property Damage,None,Yes,Yes,Side-impact,Preferred,No,IL,Parking Lot Incident
+Property Damage,Minor,No,No,Rear-end Collision,Preferred,Yes,NY,Highway Accident
+Property Damage,Severe,No,Yes,Rollover,Preferred,Yes,NY,Intersection Collision
+Bodily Injury,Minor,Yes,Yes,Side-impact,Standard,No,FL,Parking Lot Incident
+Bodily Injury,Minor,Yes,No,Rollover,Preferred,No,NY,Highway Accident
+Bodily Injury,Severe,No,No,Rollover,High Risk,Yes,CA,Parking Lot Incident
+Bodily Injury,Moderate,Yes,No,Rollover,High Risk,No,FL,Intersection Collision
+Property Damage,Moderate,No,Yes,Head-on,Standard,No,IL,Parking Lot Incident
+Property Damage,Minor,No,Yes,Rollover,Standard,No,FL,Highway Accident
+Comprehensive,Moderate,No,Yes,Rollover,Preferred,Yes,NY,Highway Accident
+Property Damage,None,Yes,No,Rear-end Collision,Preferred,No,FL,Highway Accident
+Property Damage,Moderate,Yes,Yes,Head-on,Standard,No,FL,Parking Lot Incident
+Property Damage,Severe,No,Yes,Rollover,Standard,No,FL,Intersection Collision
+Property Damage,None,Yes,No,Head-on,Preferred,Yes,CA,Highway Accident
+Bodily Injury,None,No,Yes,Head-on,Standard,No,FL,Parking Lot Incident
+Bodily Injury,None,No,No,Rear-end Collision,High Risk,Yes,TX,Intersection Collision
+Bodily Injury,Moderate,Yes,Yes,Side-impact,Preferred,Yes,TX,Intersection Collision
+Bodily Injury,Minor,Yes,No,Side-impact,High Risk,No,IL,Highway Accident
+Property Damage,None,No,No,Rollover,Standard,Yes,NY,Intersection Collision
+Comprehensive,None,No,No,Rear-end Collision,High Risk,Yes,TX,Highway Accident
+Property Damage,Severe,Yes,Yes,Head-on,Standard,Yes,NY,Intersection Collision
+Comprehensive,Moderate,Yes,No,Head-on,Standard,Yes,NY,Parking Lot Incident
+Property Damage,None,Yes,Yes,Rear-end Collision,Preferred,No,NY,Parking Lot Incident
+Property Damage,None,Yes,No,Rollover,Preferred,No,CA,Intersection Collision
+Property Damage,Severe,Yes,No,Side-impact,Standard,No,FL,Highway Accident
+Bodily Injury,None,No,No,Rear-end Collision,High Risk,Yes,NY,Highway Accident
+Property Damage,None,Yes,No,Head-on,High Risk,Yes,NY,Highway Accident
+Bodily Injury,Moderate,No,Yes,Rear-end Collision,Preferred,Yes,FL,Intersection Collision
+Bodily Injury,Moderate,No,Yes,Side-impact,Preferred,No,FL,Intersection Collision
+Property Damage,Severe,No,No,Rear-end Collision,Preferred,Yes,FL,Intersection Collision
+Comprehensive,None,No,Yes,Side-impact,Preferred,Yes,CA,Highway Accident
+Comprehensive,Severe,Yes,Yes,Head-on,High Risk,Yes,IL,Intersection Collision
+Property Damage,None,Yes,Yes,Rollover,Preferred,No,IL,Parking Lot Incident
+Comprehensive,Severe,Yes,Yes,Head-on,Standard,Yes,IL,Parking Lot Incident
+Bodily Injury,Minor,No,Yes,Head-on,Preferred,No,CA,Highway Accident
+Bodily Injury,None,Yes,No,Rear-end Collision,Standard,No,FL,Highway Accident
+Property Damage,Severe,No,No,Side-impact,Preferred,Yes,TX,Parking Lot Incident
+Comprehensive,Moderate,No,Yes,Side-impact,Preferred,Yes,FL,Highway Accident
+Bodily Injury,Minor,No,No,Rear-end Collision,Preferred,Yes,NY,Parking Lot Incident
+Property Damage,Minor,Yes,No,Rear-end Collision,High Risk,Yes,FL,Intersection Collision
+Bodily Injury,Severe,No,No,Side-impact,Preferred,No,NY,Intersection Collision
+Bodily Injury,None,No,No,Rear-end Collision,High Risk,No,FL,Parking Lot Incident
+Bodily Injury,Moderate,No,Yes,Side-impact,High Risk,No,NY,Highway Accident
+Comprehensive,Minor,No,Yes,Side-impact,Standard,Yes,FL,Intersection Collision
+Property Damage,Moderate,No,Yes,Rollover,Preferred,Yes,NY,Intersection Collision
+Comprehensive,Severe,Yes,Yes,Side-impact,High Risk,Yes,FL,Parking Lot Incident
+Bodily Injury,Moderate,No,No,Rear-end Collision,High Risk,Yes,TX,Intersection Collision
+Comprehensive,Moderate,No,Yes,Head-on,High Risk,Yes,TX,Parking Lot Incident
+Property Damage,Severe,No,Yes,Head-on,High Risk,No,FL,Intersection Collision
+Comprehensive,None,No,Yes,Rollover,Standard,Yes,CA,Parking Lot Incident
+Property Damage,Minor,No,Yes,Rollover,Standard,No,FL,Highway Accident
+Bodily Injury,Severe,Yes,No,Rear-end Collision,Preferred,No,FL,Intersection Collision
+Bodily Injury,Minor,No,No,Side-impact,High Risk,Yes,NY,Parking Lot Incident
+Property Damage,None,Yes,Yes,Side-impact,High Risk,No,IL,Parking Lot Incident
+Bodily Injury,Minor,Yes,No,Rollover,High Risk,Yes,FL,Highway Accident
+Comprehensive,Minor,Yes,No,Rear-end Collision,Preferred,No,IL,Highway Accident
+Comprehensive,Severe,No,No,Head-on,Preferred,Yes,NY,Intersection Collision
+Bodily Injury,None,Yes,No,Rollover,High Risk,Yes,FL,Intersection Collision
+Bodily Injury,Moderate,Yes,Yes,Head-on,Standard,Yes,FL,Highway Accident
+Comprehensive,Moderate,No,No,Side-impact,Standard,No,TX,Parking Lot Incident
+Property Damage,Severe,No,No,Rear-end Collision,Preferred,Yes,TX,Intersection Collision
+Property Damage,Minor,No,No,Side-impact,High Risk,No,NY,Highway Accident
+Bodily Injury,Minor,Yes,No,Rear-end Collision,High Risk,Yes,NY,Highway Accident
+Bodily Injury,Moderate,No,Yes,Rollover,Standard,Yes,TX,Highway Accident
+Property Damage,Moderate,No,No,Side-impact,High Risk,No,TX,Intersection Collision
+Bodily Injury,Minor,Yes,Yes,Rollover,Standard,No,FL,Parking Lot Incident
+Bodily Injury,Minor,No,Yes,Side-impact,Preferred,No,IL,Parking Lot Incident
+Property Damage,None,Yes,No,Side-impact,Standard,Yes,TX,Intersection Collision
+Property Damage,Severe,No,Yes,Rollover,Preferred,No,FL,Parking Lot Incident
+Bodily Injury,Moderate,Yes,No,Side-impact,Standard,Yes,IL,Parking Lot Incident
+Bodily Injury,Moderate,No,No,Head-on,Standard,Yes,TX,Highway Accident
+Property Damage,Moderate,No,Yes,Side-impact,High Risk,No,FL,Highway Accident
+Bodily Injury,Minor,No,Yes,Rollover,High Risk,Yes,NY,Intersection Collision
+Bodily Injury,Moderate,No,Yes,Rear-end Collision,Standard,Yes,TX,Highway Accident
+Comprehensive,None,No,No,Side-impact,Standard,Yes,IL,Parking Lot Incident
+Property Damage,None,Yes,Yes,Rear-end Collision,Preferred,Yes,IL,Intersection Collision
+Bodily Injury,Moderate,No,No,Side-impact,Preferred,Yes,FL,Highway Accident
+Comprehensive,Moderate,No,Yes,Head-on,Standard,No,NY,Intersection Collision
+Property Damage,Minor,Yes,Yes,Head-on,High Risk,No,TX,Highway Accident
+Comprehensive,Moderate,Yes,Yes,Rollover,Preferred,Yes,TX,Highway Accident
+Comprehensive,None,Yes,Yes,Head-on,Standard,Yes,IL,Intersection Collision
+Property Damage,Minor,Yes,Yes,Rear-end Collision,Standard,No,IL,Intersection Collision
+Comprehensive,Minor,No,Yes,Rear-end Collision,High Risk,No,TX,Parking Lot Incident
+Bodily Injury,None,Yes,No,Head-on,Preferred,No,IL,Intersection Collision
+Bodily Injury,Severe,Yes,No,Head-on,Standard,No,NY,Highway Accident
+Comprehensive,None,No,Yes,Side-impact,Preferred,No,FL,Parking Lot Incident
+Comprehensive,None,No,Yes,Rear-end Collision,Preferred,No,CA,Intersection Collision
+Bodily Injury,Moderate,Yes,Yes,Head-on,Preferred,Yes,FL,Parking Lot Incident
+Bodily Injury,Minor,No,Yes,Rollover,High Risk,Yes,NY,Highway Accident
+Bodily Injury,None,No,No,Rear-end Collision,Standard,Yes,NY,Highway Accident
+Comprehensive,Moderate,Yes,No,Side-impact,Standard,Yes,FL,Highway Accident
+Comprehensive,Severe,No,Yes,Side-impact,Standard,Yes,CA,Highway Accident
+Property Damage,Moderate,Yes,No,Head-on,High Risk,Yes,TX,Parking Lot Incident
+Bodily Injury,None,Yes,Yes,Head-on,High Risk,Yes,TX,Highway Accident
+Comprehensive,Minor,No,Yes,Rollover,High Risk,Yes,FL,Highway Accident
+Property Damage,Minor,Yes,No,Side-impact,Standard,Yes,CA,Highway Accident
+Comprehensive,Minor,No,No,Head-on,High Risk,No,TX,Highway Accident
+Comprehensive,Minor,No,No,Rear-end Collision,Standard,No,IL,Intersection Collision
+Bodily Injury,Severe,Yes,Yes,Head-on,Preferred,Yes,CA,Intersection Collision
+Property Damage,Moderate,No,Yes,Side-impact,Preferred,Yes,CA,Parking Lot Incident
+Property Damage,None,No,Yes,Rollover,High Risk,Yes,FL,Intersection Collision
+Property Damage,Moderate,Yes,Yes,Side-impact,Standard,No,TX,Highway Accident
+Bodily Injury,Minor,Yes,Yes,Rear-end Collision,Preferred,Yes,FL,Parking Lot Incident
+Property Damage,Moderate,No,Yes,Side-impact,Standard,Yes,IL,Intersection Collision
+Comprehensive,Severe,No,No,Rollover,Preferred,Yes,CA,Intersection Collision
+Bodily Injury,Minor,No,No,Rear-end Collision,Standard,Yes,FL,Parking Lot Incident
+Bodily Injury,None,Yes,No,Head-on,Standard,Yes,IL,Intersection Collision
+Comprehensive,None,Yes,No,Head-on,Preferred,No,NY,Parking Lot Incident
+Property Damage,Severe,Yes,Yes,Side-impact,Preferred,Yes,FL,Highway Accident
+Comprehensive,Severe,No,No,Side-impact,Preferred,Yes,IL,Highway Accident
+Comprehensive,None,Yes,No,Rear-end Collision,Preferred,Yes,NY,Highway Accident
+Property Damage,Moderate,No,No,Head-on,Preferred,No,NY,Highway Accident
+Bodily Injury,Minor,Yes,Yes,Head-on,Standard,No,FL,Highway Accident
+Comprehensive,Moderate,No,No,Rollover,Preferred,Yes,FL,Parking Lot Incident
+Property Damage,Severe,Yes,Yes,Rollover,Preferred,Yes,IL,Parking Lot Incident
+Property Damage,Moderate,No,No,Rear-end Collision,Preferred,No,CA,Highway Accident
+Property Damage,Minor,No,Yes,Side-impact,Preferred,Yes,NY,Intersection Collision
+Comprehensive,None,Yes,No,Rollover,High Risk,No,IL,Parking Lot Incident
+Property Damage,Minor,No,Yes,Head-on,Standard,No,TX,Highway Accident
+Bodily Injury,None,No,No,Rollover,Preferred,No,FL,Intersection Collision
+Property Damage,Severe,Yes,Yes,Rear-end Collision,Preferred,No,IL,Intersection Collision
+Comprehensive,None,Yes,No,Rear-end Collision,Preferred,No,IL,Intersection Collision
+Bodily Injury,Moderate,No,Yes,Rear-end Collision,Standard,No,IL,Parking Lot Incident
+Property Damage,None,No,No,Rear-end Collision,Preferred,Yes,IL,Intersection Collision
+Comprehensive,Minor,Yes,No,Side-impact,Standard,No,TX,Parking Lot Incident
+Property Damage,None,No,No,Side-impact,Standard,Yes,NY,Intersection Collision
+Bodily Injury,Severe,Yes,Yes,Rollover,Standard,Yes,IL,Highway Accident
+Property Damage,Moderate,No,Yes,Rollover,Preferred,No,FL,Highway Accident
+Comprehensive,Moderate,No,No,Rollover,Preferred,No,CA,Parking Lot Incident
+Comprehensive,Moderate,No,No,Rear-end Collision,Preferred,Yes,TX,Intersection Collision
+Property Damage,Minor,Yes,Yes,Side-impact,Standard,Yes,CA,Parking Lot Incident
+Bodily Injury,Minor,Yes,No,Side-impact,Preferred,No,CA,Highway Accident
+Property Damage,Minor,Yes,Yes,Rear-end Collision,Standard,Yes,NY,Highway Accident
+Bodily Injury,Severe,No,Yes,Head-on,Standard,Yes,IL,Intersection Collision
+Bodily Injury,Moderate,Yes,Yes,Rollover,High Risk,Yes,IL,Parking Lot Incident
+Bodily Injury,Minor,No,Yes,Rear-end Collision,High Risk,No,TX,Parking Lot Incident
+Property Damage,Severe,Yes,Yes,Rear-end Collision,High Risk,No,IL,Highway Accident
+Property Damage,Moderate,No,No,Rollover,High Risk,No,NY,Highway Accident
+Property Damage,Severe,Yes,No,Rear-end Collision,Preferred,No,FL,Highway Accident
+Bodily Injury,Moderate,Yes,Yes,Head-on,Standard,Yes,NY,Intersection Collision
+Comprehensive,None,Yes,No,Side-impact,High Risk,Yes,NY,Intersection Collision
+Property Damage,Moderate,Yes,No,Side-impact,Standard,Yes,NY,Highway Accident
+Property Damage,None,No,No,Rear-end Collision,Preferred,Yes,FL,Intersection Collision
+Comprehensive,Severe,Yes,Yes,Rear-end Collision,High Risk,No,CA,Intersection Collision
+Comprehensive,Moderate,Yes,Yes,Rear-end Collision,High Risk,No,CA,Highway Accident
+Property Damage,Severe,No,No,Side-impact,Standard,No,IL,Intersection Collision
+Bodily Injury,Moderate,Yes,No,Rollover,High Risk,Yes,CA,Highway Accident
+Comprehensive,None,No,Yes,Head-on,High Risk,No,IL,Highway Accident
+Comprehensive,Moderate,Yes,Yes,Head-on,High Risk,No,IL,Highway Accident
+Property Damage,Minor,Yes,No,Rollover,Standard,No,CA,Intersection Collision
+Comprehensive,Severe,Yes,No,Rear-end Collision,Preferred,No,CA,Parking Lot Incident
+Comprehensive,Moderate,Yes,No,Rollover,Standard,Yes,IL,Intersection Collision
+Property Damage,Minor,Yes,No,Side-impact,Preferred,No,FL,Highway Accident
+Comprehensive,Moderate,Yes,Yes,Rear-end Collision,Preferred,No,TX,Highway Accident
+Bodily Injury,None,No,Yes,Side-impact,Preferred,No,NY,Intersection Collision
+Property Damage,Minor,Yes,No,Head-on,Preferred,No,TX,Parking Lot Incident
+Property Damage,None,Yes,No,Rear-end Collision,Preferred,No,NY,Intersection Collision
+Comprehensive,None,Yes,Yes,Rear-end Collision,High Risk,Yes,CA,Highway Accident
+Comprehensive,None,Yes,Yes,Rollover,Preferred,No,NY,Highway Accident
+Bodily Injury,Minor,No,Yes,Rear-end Collision,High Risk,No,CA,Intersection Collision
+Comprehensive,Severe,Yes,No,Rollover,Standard,No,FL,Intersection Collision
+Bodily Injury,Moderate,No,Yes,Rollover,Preferred,No,TX,Highway Accident
+Comprehensive,None,Yes,No,Rear-end Collision,Preferred,Yes,CA,Intersection Collision
+Property Damage,Severe,Yes,Yes,Rollover,Preferred,Yes,CA,Intersection Collision
+Comprehensive,Minor,Yes,No,Rear-end Collision,High Risk,No,NY,Highway Accident
+Bodily Injury,Severe,No,Yes,Side-impact,High Risk,Yes,TX,Parking Lot Incident
+Comprehensive,Moderate,No,Yes,Head-on,High Risk,No,IL,Intersection Collision
+Comprehensive,None,No,No,Rollover,Preferred,Yes,TX,Parking Lot Incident
+Comprehensive,Severe,No,No,Side-impact,Standard,No,TX,Highway Accident
