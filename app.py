@@ -3,11 +3,23 @@ from pydantic import BaseModel
 import pandas as pd
 import joblib
 import shap
+from fastapi.middleware.cors import CORSMiddleware
 
 # -----------------------------
 # Initialize FastAPI
 # -----------------------------
 app = FastAPI(title="Claim Severity API", version="1.0")
+
+# -----------------------------
+# CORS Middleware
+# -----------------------------
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],        # Or specify your frontend domain
+    allow_credentials=True,
+    allow_methods=["*"],        # GET, POST, PUT, DELETE etc.
+    allow_headers=["*"],
+)
 
 # -----------------------------
 # Load model and dependencies
